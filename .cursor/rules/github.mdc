@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# General
+- You will use [PULL_REQUEST_TEMPLATE.md](mdc:.guthub/PULL_REQUEST_TEMPLATE.md) as template when creating a new pull request
+- You will add a brief description of the changes done in the pull request template under Description
+- Review the checklist items and check those that you feel where done in the branch
